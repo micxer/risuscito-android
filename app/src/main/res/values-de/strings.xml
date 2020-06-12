@@ -249,4 +249,8 @@
     <string name="app_name">Christus erstand</string>
     <string name="public_memory">Öffentlicher Speicher</string>
     <string name="private_memory">Privater Speicher</string>
+    <string name="showcase_listepers_desc3">Um eine Liste zu importieren, öffnen Sie die \". risuscito\"-Datei, die Sie erhalten haben, entweder direkt im Programm, über das Sie sie erhalten haben, oder in einem Dateimanager.</string>
+    <string name="showcase_listepers_desc1">Ab dieser Version können Sie ausgewählte Strukturen und Gesänge aus den erstellten Listen (nicht den Standardlisten) exportieren und importieren.
+\nKlicken Sie auf die schwebende Schaltfläche für zusätzliche Optionen und wählen Sie die neue Option Datei senden, um auszuwählen, wie und an wen die Liste gesendet werden soll</string>
+    <string name="showcase_listepers_title">Listen exportieren/importieren</string>
 </resources>
