@@ -253,4 +253,18 @@
     <string name="showcase_listepers_desc1">Ab dieser Version können Sie ausgewählte Strukturen und Gesänge aus den erstellten Listen (nicht den Standardlisten) exportieren und importieren.
 \nKlicken Sie auf die schwebende Schaltfläche für zusätzliche Optionen und wählen Sie die neue Option Datei senden, um auszuwählen, wie und an wen die Liste gesendet werden soll</string>
     <string name="showcase_listepers_title">Listen exportieren/importieren</string>
+    <string name="night_theme_title">Dunkles Thema</string>
+    <string name="permission_ok">Genehmigung erteilt</string>
+    <string name="consegnati_only">Suche nur in übergebenen</string>
+    <string name="title_trabar_VII">7</string>
+    <string name="title_trabar_VI">6</string>
+    <string name="title_trabar_V">5</string>
+    <string name="title_trabar_IV">4</string>
+    <string name="title_trabar_III">3</string>
+    <string name="title_trabar_II">2</string>
+    <string name="title_trabar_I">1</string>
+    <string name="generic_removed">%1$s entfernt</string>
+    <string name="canto_offertorio">Zur Gabenbereitung</string>
+    <string name="show_offertorio_summary">Lied zur Gabenbereitung für die Eucharistie aktivieren</string>
+    <string name="show_offertorio_title">Eucharistie - Gabenbereitung</string>
 </resources>
