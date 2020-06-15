@@ -1,12 +1,8 @@
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
 app/app.iml
-.idea/caches/
 app/release/
 app/src/release/
 build
-/.idea/compiler.xml
-/.idea/encodings.xml
 .DS_Store
+.idea/
