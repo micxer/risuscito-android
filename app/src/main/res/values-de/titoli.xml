@@ -57,4 +57,7 @@
     <string name="celebrazione_penitenziale_title">Abschließendes Dankgebet für die Liturgie der Versöhnung</string>
     <string name="preghiera_litanica_penitenziale_title">Bußlitanei</string>
     <string name="litanie_penitenziali_brevi_title">Bußlitanei, kurz</string>
+    <string name="quando_israele_usci_egitto_title">Psalm 114 - Als Israel aus Ägypten auszog</string>
+    <string name="lodate_il_signore_title">Psalm 117 - Lobet den Herrn, alle Völker der Erde</string>
+    <string name="cantico_di_mose_title">Moselied (Ex 15, 1-18)</string>
 </resources>
