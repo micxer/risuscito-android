@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="Vari">Verschiedene</string>
+    <string name="Canti_a_Maria">Lieder zu Maria</string>
+    <string name="Inni_liturgici">Liturgische Lieder</string>
+    <string name="Canti_per_il_sacramento_della_riconciliazione">Lieder für die Bußliturgie</string>
+    <string name="Dalla_liturgia_della_veglia_pasquale">Aus der Liturgie der Osternacht</string>
+    <string name="Canti_per_la_frazione_del_pane">Lieder zum Teilen des Brotes</string>
+    <string name="Dall_ordinario_della_Messa">Aus dem Ordinarium der Messe</string>
+    <string name="Canti_per_bambini">Lieder für Kinder</string>
+    <string name="Ispirati_a_melodie_e_rituali_ebraici">Inspiriert von jüdischen Melodien und Ritualen</string>
+    <string name="Canti_dalle_Odi_di_Salomone">Lieder aus den &lt;Lieder des Salomon&gt;</string>
+    <string name="Canti_della_Bibbia_Antico_Testamento">Lieder der Bibel - Altes Testament</string>
+    <string name="Canti_della_Bibbia_Nuovo_Testamento">Lieder der Bibel - Neues Testament</string>
+</resources>
