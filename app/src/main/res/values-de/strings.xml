@@ -7,7 +7,8 @@
     <string name="fab_delete_unlink">Datei löschen</string>
     <string name="audio_off">Audio ausblenden</string>
     <string name="audio_on">Audio anzeigen</string>
-    <string name="dialog_import">Sie sind dabei, eine benutzerdefinierte Liste zu importieren. Fortsetzen\?</string>
+    <string name="dialog_import">Sie sind dabei, eine benutzerdefinierte Liste zu importieren.
+\nFortsetzen\?</string>
     <string name="import_done">Import der Liste erfolgreich!</string>
     <string name="import_running">Liste wird importiert</string>
     <string name="import_error">Import der Liste fehlgeschlagen!</string>
@@ -41,7 +42,7 @@
     <string name="external_storage_denied">Öffentlicher Speicher nicht verfügbar.</string>
     <string name="barre_al_tasto">Kapodaster auf dem %1$s Bund</string>
     <string name="barre_add_al">auf</string>
-    <string name="barre_search_string">Barrè</string>
+    <string name="barre_search_string">Kapodaster</string>
     <string name="delete_list_dialog">Sind Sie sicher, dass Sie die Liste löschen wollen\?</string>
     <string name="share_by">Teilen mit…</string>
     <string name="download_error">Fehler beim Herunterladen:</string>
@@ -224,7 +225,7 @@
     <string name="canto_pace">Zum Frieden</string>
     <string name="title_activity_canti_eucarestia">Feier der Eucharistie</string>
     <string name="reset_list_question">Sind Sie sicher, dass Sie die Liste zurücksetzen wollen\?</string>
-    <string name="select_canto">Lied hinzufügen:</string>
+    <string name="select_canto">Lied hinzufügen</string>
     <string name="canto_fine">Schlusslied</string>
     <string name="terza_lettura">Nach der dritten Lesung</string>
     <string name="seconda_lettura">Nach der zweiten Lesung</string>
