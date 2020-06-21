@@ -1,2 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="salmo_150">Psalm 150 - Halleluja</string>
+    <string name="salmo_142">Psalm 143 - Herr, höre mein Gebet</string>
+    <string name="salmo_138">Psalm 139 - Oh Herr, du erforschst mich und du kennst mich</string>
+    <string name="salmo_137">Psalm 138 - Im Angesicht der Engel</string>
+    <string name="salmo_136">Psalm 137 - An den Flüssen von Babylon</string>
+    <string name="salmo_133">Psalm 134 - Lobsinget unserm Herren</string>
+    <string name="salmo_132_guardate_gustate">Psalm 133 - Schaut wie es schön ist und kostet wie lieblich</string>
+    <string name="salmo_132_come_bello">Psalm 133 - Schaut wie es schön ist, schaut welche Freude</string>
+    <string name="salmo_132_guardate">Psalm 133 - Schaut, wie es schön ist</string>
+    <string name="salmo_129">Psalm 130 - Aus der Tiefe ruf ich zu dir</string>
+    <string name="salmo_126">Psalm 127 - Wenn der Herr das Haus nicht baut</string>
+    <string name="salmo_125">Psalm 126 - Als der Herr</string>
+    <string name="salmo_121">Psalm 122 - Aus Liebe zu all meinen Brüdern</string>
+    <string name="salmo_120">Psalm 121 - Ich hebe meine Augen zu den Bergen</string>
+    <string name="salmo_117">Psalm 118 - Ich sterbe nicht</string>
+    <string name="salmo_116">Psalm 117 - Lobsinget unserm Herren</string>
+    <string name="salmo_114_115">Psalm 116 - Kelch der Rettung</string>
+    <string name="salmo_114">Psalm 115 - Ich liebe den Herrn</string>
+    <string name="salmo_113A">Psalm 114 - Als Israel aus Ägypten auszog</string>
+    <string name="salmo_109">Psalm 109 - So spricht der Herr zu meinem Herren</string>
+    <string name="salmo_099">Psalm 100 - Jubelt vor dem Herrn</string>
+    <string name="salmo_094_se_oggi">Psalm 95 - Heute, wenn ihr seine Stimme hört</string>
+    <string name="salmo_083">Psalm 84 - Wie lieblich sind deine Wohnungen, oh Herr</string>
+    <string name="salmo_067_v02">Psalm 68 - Gott erhebe sich</string>
+    <string name="salmo_062">Psalm 63 - Oh Gott, du bist mein Gott</string>
+    <string name="salmo_056">Psalm 57 - Ich möchte singen</string>
+    <string name="salmo_053">Psalm 54 - Oh Gott, in deinem Namen rette ich</string>
+    <string name="salmo_046">Psalm 47 - Gott erhebt sich unter Jubel</string>
+    <string name="salmo_039">Psalm 40 - Ich hoffte, ich hoffte auf den Herrn</string>
+    <string name="salmo_033_benediro">Psalm 34 - Ich will den Herr allezeit segnen</string>
+    <string name="salmo_033_gustate">Psalm 34 - Kostet und seht</string>
+    <string name="salmo_032">Psalm 33 - Ihr Gerechten, jubelt vor dem Herrn</string>
+    <string name="salmo_031">Psalm 32 - Meine Sünde hab\' ich dir bekannt</string>
+    <string name="salmo_026">Psalm 27 - Der Herr ist mein Licht und meine Rettung</string>
+    <string name="salmo_024">Psalm 25 - Zu dir, oh Herr, erhebe ich meine Seele</string>
+    <string name="salmo_022">Psalm 23 - Der Herr ist mein Hirte</string>
+    <string name="salmo_021">Psalm 22 - Eli, Eli, lama sabachtani</string>
+    <string name="salmo_017">Psalm 18 - Ich liebe dich, oh Herr</string>
+    <string name="salmo_015">Psalm 16 - Du wirst mir den Weg des Lebens weisen</string>
+    <string name="salmo_013">Psalm 14 - Die Toren denken</string>
+    <string name="salmo_012">Psalm 13 - Wie lange noch</string>
+    <string name="salmo_008">Psalm 8 - Oh mein Herr, du unser Herrscher</string>
+    <string name="salmo_001">Psalm 1 - Glücklich der Mensch</string>
+</resources>
